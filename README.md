@@ -16,17 +16,8 @@ This repository contains a collection of C# projects and code samples. It serves
 
 Here are some of the key projects included in this repository:
 
-1. **Project 1**: Description of project 1.
-2. **Project 2**: Description of project 2.
-3. **WPF Application Module**: Description of WPF application module.
-4. **InventoryTracker**: "InventoryTracker" is a CRUD application built using WPF and .NET 8, designed to manage inventory items efficiently. It implements the MVVM (Model-View-ViewModel) pattern for separating UI from business logic and data models. Integration with MS SQL Server allows database operations for storing and managing inventory data.
-
-   ### Setting Up the Project
-
-   #### Prerequisites
-   - Visual Studio 2022 or later
-   - .NET 8 SDK
-   - Microsoft SQL Server (optional, for database integration)
+1. **MS SQL Query Tool**: This project is a simple ASP.NET Core application designed to provide a web interface for executing SQL queries against a Microsoft SQL Server database. Users can specify their database connection string and the SQL query they want to execute directly in the `appsettings.json` file.
+2. **InventoryTracker**: "InventoryTracker" is a CRUD application built using WPF and .NET 8, designed to manage inventory items efficiently. It implements the MVVM (Model-View-ViewModel) pattern for separating UI from business logic and data models. Integration with MS SQL Server allows database operations for storing and managing inventory data.
 
 ## Skills
 

@@ -12,5 +12,5 @@ This project is a simple ASP.NET Core application designed to provide a web inte
 ### Usage
 
 In `appsettings.json`
-* (`DefaultConnection`) - update the connection string to point to your SQL Server database server
-*  (`SqlQuery`) - specify your SQL query that you want to execute
+* `DefaultConnection` - update the connection string to point to your SQL Server database server
+*  `SqlQuery` - specify your SQL query that you want to execute

@@ -6,8 +6,11 @@ This project is a simple ASP.NET Core application designed to provide a web inte
 
 ### Prerequisites
 
-- [.NET SDK](https://dotnet.microsoft.com/download) installed on your machine.
-- Microsoft SQL Server installed, with access to a database and necessary permissions to execute queries.
+- [.NET 8.0 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) installed on your machine.
+- The following NuGet packages installed in your project:
+  - `Microsoft.EntityFrameworkCore.SqlServer`
+  - `Microsoft.EntityFrameworkCore.Tools`
+- Access to a Microsoft SQL Server database with the necessary permissions to execute queries.
 
 ### Usage
 

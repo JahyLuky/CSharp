@@ -1,0 +1,26 @@
+﻿@page
+@model SQLQueryTool.Pages.IndexModel
+
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                @foreach (var columnName in Model.ColumnNames)
+                {
+                    <th>@columnName</th>
+                }
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var record in Model.Records)
+            {
+                <tr>
+                    @foreach (var columnName in Model.ColumnNames)
+                    {
+                        <td>@record[columnName]</td>
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -17,7 +17,7 @@ This repository contains a collection of C# projects and code samples. It serves
 Here are some of the key projects included in this repository:
 
 1. **MS SQL Query Tool**: This project is a simple ASP.NET Core application designed to provide a web interface for executing SQL queries against a Microsoft SQL Server database. Users can specify their database connection string and the SQL query they want to execute directly in the `appsettings.json` file.
-2. **InventoryTracker**: "InventoryTracker" is a CRUD application built using WPF and .NET 8, designed to manage inventory items efficiently. It implements the MVVM (Model-View-ViewModel) pattern for separating UI from business logic and data models. Integration with MS SQL Server allows database operations for storing and managing inventory data.
+2. **InventoryTracker**: "InventoryTracker" is a CRUD application built using WPF and .NET 8, designed to manage inventory items efficiently. It implements the MVVM (Model-View-ViewModel) pattern for separating UI from business logic and data models. Integration with SQLite Server allows database operations for storing and managing inventory data.
 
 ## Skills
 

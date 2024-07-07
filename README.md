@@ -20,7 +20,7 @@ Here are some of the key projects included in this repository:
 
 2. **InventoryTracker**: "InventoryTracker" is a CRUD application built using WPF and .NET 8, designed to manage inventory items efficiently. It implements the MVVM (Model-View-ViewModel) pattern for separating UI from business logic and data models. Integration with SQLite Server allows database operations for storing and managing inventory data.
 
-3. **Arena Game**: This project is a game that originated as a hobby project during my high school years, and I’ve recently revisited it to improve and enhance it. The game features a turn-based battle system where various types of characters—such as Archers, Warriors, and Mages—compete against each other in an arena. My goal is to build upon and refine the original concept by introducing new mechanics and polishing the gameplay.
+3. **Arena Game**: This project is a game that originated as a hobby project during my high school years, and I’ve recently revisited it to improve and enhance it. The game features a turn-based battle system where various types of characters—such as Hunters, Warriors, and Mages—compete against each other in an arena. My goal is to build upon and refine the original concept by introducing new mechanics and polishing the gameplay.
 
 ## Skills
 

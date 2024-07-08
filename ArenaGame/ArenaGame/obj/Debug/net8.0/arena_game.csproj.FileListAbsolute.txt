@@ -1,0 +1,15 @@
+C:\Users\jahyl\source\repos\arena_game\arena_game\bin\Debug\net8.0\arena_game.exe
+C:\Users\jahyl\source\repos\arena_game\arena_game\bin\Debug\net8.0\arena_game.deps.json
+C:\Users\jahyl\source\repos\arena_game\arena_game\bin\Debug\net8.0\arena_game.runtimeconfig.json
+C:\Users\jahyl\source\repos\arena_game\arena_game\bin\Debug\net8.0\arena_game.dll
+C:\Users\jahyl\source\repos\arena_game\arena_game\bin\Debug\net8.0\arena_game.pdb
+C:\Users\jahyl\source\repos\arena_game\arena_game\obj\Debug\net8.0\arena_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jahyl\source\repos\arena_game\arena_game\obj\Debug\net8.0\arena_game.AssemblyInfoInputs.cache
+C:\Users\jahyl\source\repos\arena_game\arena_game\obj\Debug\net8.0\arena_game.AssemblyInfo.cs
+C:\Users\jahyl\source\repos\arena_game\arena_game\obj\Debug\net8.0\arena_game.csproj.CoreCompileInputs.cache
+C:\Users\jahyl\source\repos\arena_game\arena_game\obj\Debug\net8.0\arena_game.dll
+C:\Users\jahyl\source\repos\arena_game\arena_game\obj\Debug\net8.0\refint\arena_game.dll
+C:\Users\jahyl\source\repos\arena_game\arena_game\obj\Debug\net8.0\arena_game.pdb
+C:\Users\jahyl\source\repos\arena_game\arena_game\obj\Debug\net8.0\arena_game.genruntimeconfig.cache
+C:\Users\jahyl\source\repos\arena_game\arena_game\obj\Debug\net8.0\ref\arena_game.dll
+C:\Users\jahyl\source\repos\arena_game\arena_game\bin\Debug\net8.0\arena_game.dll.config

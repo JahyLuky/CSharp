@@ -1,0 +1,15 @@
+C:\Users\jahelka\source\repos\CSharp-main\ArenaGame\ArenaGame\bin\Debug\net8.0\ArenaGame.exe
+C:\Users\jahelka\source\repos\CSharp-main\ArenaGame\ArenaGame\bin\Debug\net8.0\ArenaGame.dll.config
+C:\Users\jahelka\source\repos\CSharp-main\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jahelka\source\repos\CSharp-main\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.AssemblyInfoInputs.cache
+C:\Users\jahelka\source\repos\CSharp-main\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.AssemblyInfo.cs
+C:\Users\jahelka\source\repos\CSharp-main\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.csproj.CoreCompileInputs.cache
+C:\Users\jahelka\source\repos\CSharp-main\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.dll
+C:\Users\jahelka\source\repos\CSharp-main\ArenaGame\ArenaGame\obj\Debug\net8.0\refint\ArenaGame.dll
+C:\Users\jahelka\source\repos\CSharp-main\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.pdb
+C:\Users\jahelka\source\repos\CSharp-main\ArenaGame\ArenaGame\bin\Debug\net8.0\ArenaGame.deps.json
+C:\Users\jahelka\source\repos\CSharp-main\ArenaGame\ArenaGame\bin\Debug\net8.0\ArenaGame.runtimeconfig.json
+C:\Users\jahelka\source\repos\CSharp-main\ArenaGame\ArenaGame\bin\Debug\net8.0\ArenaGame.dll
+C:\Users\jahelka\source\repos\CSharp-main\ArenaGame\ArenaGame\bin\Debug\net8.0\ArenaGame.pdb
+C:\Users\jahelka\source\repos\CSharp-main\ArenaGame\ArenaGame\obj\Debug\net8.0\ArenaGame.genruntimeconfig.cache
+C:\Users\jahelka\source\repos\CSharp-main\ArenaGame\ArenaGame\obj\Debug\net8.0\ref\ArenaGame.dll

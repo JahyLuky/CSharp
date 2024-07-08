@@ -8,7 +8,7 @@ This project is a game that originated as a hobby project during my high school 
 ## Features
 
 - **Character Classes**: 
-  - **Hunters**: A ranged fighter with unique abilities.
+  - **Hunter**: A ranged fighter with unique abilities.
   - **Warrior**: A melee combatant with shield mechanics for damage mitigation.
   - **Mage**: A spellcaster with mana and magic attacks.
   

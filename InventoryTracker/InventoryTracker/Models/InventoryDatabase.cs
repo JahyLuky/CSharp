@@ -27,12 +27,13 @@ namespace InventoryTracker.Models
             _connection = new SQLiteConnection($"Data Source={dbPath};Version=3;");
             _connection.Open();
             CreateInventoryTable();
+            CreateUsersTable();
         }
 
         /// <summary>
-        /// Creates the Inventory table in the database if it does not already exist.
+        /// Creates the Users table in the database if it does not already exist.
         /// </summary>
-        private void CreateInventoryTable()
+        private void CreateUsersTable()
         {
             string sql = @"
                 CREATE TABLE IF NOT EXISTS Users (
@@ -41,6 +42,22 @@ namespace InventoryTracker.Models
                 PasswordHash TEXT NOT NULL,
                 Salt TEXT NOT NULL,
                 Role TEXT NOT NULL
+            );";
+
+            ExecuteNonQuery(sql);
+        }
+
+        /// <summary>
+        /// Creates the Inventory table in the database if it does not already exist.
+        /// </summary>
+        private void CreateInventoryTable()
+        {
+            string sql = @"
+                CREATE TABLE IF NOT EXISTS Inventory (
+                Id INTEGER PRIMARY KEY AUTOINCREMENT,
+                Name TEXT NOT NULL,
+                Quantity INTEGER NOT NULL,
+                Price REAL NOT NULL
             );";
 
             ExecuteNonQuery(sql);

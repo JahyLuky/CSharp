@@ -31,11 +31,6 @@ Throughout the development of these projects, I have gained experience in the fo
 - LINQ (Language Integrated Query)
 - Asynchronous Programming (async/await)
 - Windows Presentation Foundation (WPF)
-- Entity Framework
-- Unit Testing
-- Console-Based Graphics
-- Game Development
-- Game Design
 
 ## License
 
